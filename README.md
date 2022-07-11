@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @genesisphillips
 - 👀 I’m a Computer Science student at the University of Alabama in Huntsville
-- 💞️ I'm interested in mobile/desktop apps, robotics, & cybersecurity
+- 💞️ I'm interested in mobile/desktop apps, AI/ML, space, & cybersecurity
 - 🌱 I’m currently learning Python, Java, MySQL
 - 📫 genesiscphillips@gmail.com
 
