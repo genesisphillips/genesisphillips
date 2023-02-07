@@ -1,7 +1,7 @@
 - 🧠 Hi, I’m @genesisphillips
 - 🧬 I’m a trilingual student at the University of Alabama in Huntsville
-- 🤍 I'm interested in mobile/desktop apps, chemistry, space, & medical sciences
-- 💿 I’m currently learning Python & Java
+- 🤍 I'm interested in foreign languages, chemistry, space, & medical sciences
+- 💿 I’m currently learning Python
 - 💌 genesiscphillips@gmail.com
 
 <!---
